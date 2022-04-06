@@ -2,7 +2,7 @@
 
 
 use PHPUnit\Framework\TestCase;
-//use users\user;
+//use users\users;
 
 class UserServiceTest extends TestCase
 {
